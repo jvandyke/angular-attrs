@@ -1,0 +1,24 @@
+{
+  "name": "angular-attrs",
+  "version": "1.0.0",
+  "description": "Like ng-class, but for attributes.",
+  "main": "angular.directives.attrs.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jvandyke/angular-attrs.git"
+  },
+  "keywords": [
+    "angular",
+    "attr",
+    "attribute"
+  ],
+  "author": "James Van Dyke",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jvandyke/angular-attrs/issues"
+  },
+  "homepage": "https://github.com/jvandyke/angular-attrs#readme"
+}
